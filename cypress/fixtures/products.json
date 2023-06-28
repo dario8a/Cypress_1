@@ -1,0 +1,42 @@
+{
+  "blackTShirt":
+    {
+      "nombre": "Black T-Shirt",
+      "precio": "15"
+    },
+  "whitePants":
+    {
+      "nombre": "White Pants",
+      "precio": "20"
+    },
+  "redCap":
+    {
+      "nombre": "Red Cap",
+      "precio": "10"
+    },
+  "blackJacket":
+    {
+      "nombre": "Black Jacket",
+      "precio": "25"
+    },
+  "pinkSweater":
+    {
+      "nombre": "Pink Sweater",
+      "precio": "18"
+    },
+  "whiteShoes":
+    {
+      "nombre": "White Shoes",
+      "precio": "30"
+    },
+  "blackSocks":
+    {
+      "nombre": "Black Socks",
+      "precio": "10"
+    },
+    "beigeShorts":
+    {
+      "nombre": "Beige Shorts",
+      "precio": "19"
+    }
+}
